@@ -131,8 +131,8 @@ label {
 
 .fraca{
    width: 25%;
-   background-color: aquamarine;
-}
+   background-color: #E71832;
+} 
 
 .parametro-senha-textos {
    display: flex;
@@ -140,12 +140,12 @@ label {
 }
 
 .media {
-    background-color: royalblue;
+    background-color: #FAF408;
     width: 50%;
 }
 
 .forte {
-    background-color: #001E40;
+    background-color: #00FF85;
     width: 100%;
 }
 
